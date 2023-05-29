@@ -1,4 +1,4 @@
-# Event Registry
+# Event Registry :
 
 This project is made with transaction Kit from EtherSpot. Using Account abraction same provided by banana wallet. Also Created a folder of contract in root of this project to push Contract code written in Solidity.
 
